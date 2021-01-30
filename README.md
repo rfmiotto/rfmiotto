@@ -2,14 +2,6 @@
 <h3 align="center">A passionate mechanical engineer, programmer and musician from Brazil.</h3>
 
 
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rfmiotto" alt="rfmiotto" />
-  </a>
-</p>
-
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
