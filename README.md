@@ -92,13 +92,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
   <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://en.wikipedia.org/wiki/Next.js#/media/File:Nextjs-logo.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://en.wikipedia.org/wiki/Next.js#/media/File:Nextjs-logo.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
   </a>
   <a href="https://react-query.tanstack.com/" target="_blank"> 
-    <img src="https://react-query.tanstack.com/_next/static/images/logo-a65f848e05592e7de1dc2150454230fa.svg" alt="react query" width="40" height="40"/> 
+    <img src="https://react-query.tanstack.com/_next/static/images/emblem-light-5d1cdce6c8bbb006ac6cefb8e1642877.svg" alt="react query" width="40" height="40"/> 
   </a>
 </p>
 
